@@ -30,13 +30,12 @@ LICENSE: [MIT](/license.md)
 
 ----
 
-2. 10 основных команд простым языком. https://habr.com/ru/company/skillbox/blog/442260/
+2. [10 основных команд простым языком](/comand.md)
+----
+3. [Культура коммитов](/cult_commit.md)
 
 ----
-3. [Культура коммитов](/cult%20commit.md)
-
-----
-4. [Соглашение о коммитах](/commit%20sogl.md)
+4. [Соглашение о коммитах](/commit_sogl.md)
 
 ----
 
