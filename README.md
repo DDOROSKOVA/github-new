@@ -30,10 +30,10 @@ i. [git merge](/merge.md)
 
 j. [git branch](/branch.md)
 
-----
+
 3. [Культура коммитов](/cult_commit.md)
 
-----
+
 4. [Соглашение о коммитах](/commit_sogl.md)
 
 ----
