@@ -5,6 +5,6 @@
 *commit* - точка фиксации изменений.
 
 ```bash=
-git commit.
+git commit
 ```
 ![](/depositphotos_100462908-stock-photo-hand-writing-git-commit.jpg)

@@ -6,7 +6,7 @@ LICENSE: [MIT](/license.md)
 
 ----
 ### Содержание:
-1. Основные команды. https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B
+1. Основные команды. 
 
 1.1. [git init](/init.md)
 
@@ -22,12 +22,21 @@ LICENSE: [MIT](/license.md)
 
 1.7. [git log](/log.md)
 
+1.8. [git puch](/push.md)
+
+1.9. [git merge](/merge.md)
+
+1.10. [git branch](/branch.md)
+
 ----
 
 2. 10 основных команд простым языком. https://habr.com/ru/company/skillbox/blog/442260/
 
 ----
-3. 
+3. [Культура коммитов](/cult%20commit.md)
+
+----
+4. [Соглашение о коммитах](/commit%20sogl.md)
 
 ----
 
